@@ -1,0 +1,861 @@
+{
+  "profile": [
+    {
+      "_id": "main",
+      "name": "Abdelrhman Mahmoud Fawzy",
+      "displayName": "Abdelrhman Mahmoud",
+      "initials": "AM",
+      "title": "AI & Generative AI Engineer",
+      "secondaryTitle": "Machine Learning Engineer | LLM & Agentic AI Developer",
+      "intro": "<p>I build intelligent applications with language models, agentic workflows, and computer vision — connecting research with useful software.</p>",
+      "availability": "Open to AI engineering opportunities",
+      "location": "Egypt",
+      "photo": "",
+      "capabilities": [
+        "Agentic AI",
+        "RAG",
+        "Computer Vision",
+        "LLM Engineering"
+      ],
+      "projectsLabel": "Explore my work",
+      "cvLabel": "View CV",
+      "contactLabel": "Let’s connect"
+    }
+  ],
+  "about": [
+    {
+      "_id": "main",
+      "title": "Intelligence, put to work.",
+      "description": "<p>I’m Abdelrhman Mahmoud Fawzy, an AI & Generative AI Engineer working across machine learning, document intelligence, and software development.</p><p>My work brings together LLM orchestration, grounded retrieval, computer vision, and the backend systems that support them. I enjoy turning complex workflows into practical applications, from research assistants to business software.</p>",
+      "strengths": [
+        "Grounded document intelligence and Agentic RAG",
+        "Multimodal learning and computer vision",
+        "LLM fine-tuning and evaluation",
+        "Full-stack applications and workflow automation"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "_id": "skills-0",
+      "visible": true,
+      "sortOrder": 0,
+      "title": "Programming",
+      "items": ["Python", "SQL", "C++"]
+    },
+    {
+      "_id": "skills-1",
+      "visible": true,
+      "sortOrder": 1,
+      "title": "AI / ML",
+      "items": [
+        "PyTorch",
+        "Scikit-learn",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision",
+        "Transformers",
+        "LoRA",
+        "PEFT",
+        "Model Fine-Tuning",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "_id": "skills-2",
+      "visible": true,
+      "sortOrder": 2,
+      "title": "LLM Engineering",
+      "items": [
+        "LangChain",
+        "LangGraph",
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "Retrieval-Augmented Generation",
+        "Semantic Search",
+        "Embeddings",
+        "Qwen3",
+        "Gemini",
+        "Llama 3",
+        "Mistral",
+        "Ollama"
+      ]
+    },
+    {
+      "_id": "skills-3",
+      "visible": true,
+      "sortOrder": 3,
+      "title": "Computer Vision",
+      "items": [
+        "YOLO",
+        "PaddleOCR",
+        "PaddleOCR-VL",
+        "Vision Transformers (ViT)",
+        "Siamese Networks",
+        "OpenCV"
+      ]
+    },
+    {
+      "_id": "skills-4",
+      "visible": true,
+      "sortOrder": 4,
+      "title": "Backend",
+      "items": ["FastAPI", "Flask", "REST APIs", "React"]
+    },
+    {
+      "_id": "skills-5",
+      "visible": true,
+      "sortOrder": 5,
+      "title": "Databases and Storage",
+      "items": ["MongoDB", "PostgreSQL", "Qdrant", "Vector Search"]
+    },
+    {
+      "_id": "skills-6",
+      "visible": true,
+      "sortOrder": 6,
+      "title": "Automation",
+      "items": ["Playwright", "Apify", "Web Scraping", "Data Collection"]
+    },
+    {
+      "_id": "skills-7",
+      "visible": true,
+      "sortOrder": 7,
+      "title": "Tools",
+      "items": ["Docker", "Git", "GitHub", "Jupyter", "Pandas", "NumPy"]
+    }
+  ],
+  "experiences": [
+    {
+      "_id": "experience-1",
+      "visible": true,
+      "sortOrder": 1,
+      "organization": "Self-Employed / Freelance",
+      "role": "Freelance AI Engineer & Software Developer",
+      "startDate": "July 2024",
+      "endDate": "Present",
+      "current": true,
+      "employmentType": "Freelance",
+      "description": "",
+      "bullets": [
+        "Developed AI-powered applications across computer vision, NLP, Generative AI, automation, and business software, including ViT-based medical image classification and financial and conversational RAG assistants.",
+        "Analyzed 30,000+ Facebook comments using sentiment analysis, LDA, BERTopic, LLM-assisted labeling, and Agentic RAG to identify audience trends and emerging topics.",
+        "Currently developing a subscription-based, multi-branch POS SaaS using PostgreSQL with Manager, Cashier POS, Kitchen Display System (KDS), and Admin interfaces for inventory, suppliers, reporting, and branch operations."
+      ]
+    },
+    {
+      "_id": "experience-2",
+      "visible": true,
+      "sortOrder": 2,
+      "organization": "Ministry of Communications and Information Technology (MCIT)",
+      "role": "AI Intern",
+      "startDate": "September 2026",
+      "endDate": "Present",
+      "current": true,
+      "employmentType": "Internship",
+      "description": "",
+      "bullets": [
+        "Fine-tuned PaddleOCR for Egyptian national ID information extraction, achieving a reported 97% accuracy, and applied YOLO Pose for document corner detection.",
+        "Developed NotebookLM Light using Qwen3, Ollama, LangChain, LangGraph, MongoDB, and Qdrant for document intelligence, Agentic RAG, and grounded PDF question answering.",
+        "Implemented semantic retrieval, contextual conversational memory, editable PowerPoint generation, online/offline research reporting, quizzes, and two-host AI audio overviews."
+      ]
+    },
+    {
+      "_id": "experience-3",
+      "visible": true,
+      "sortOrder": 3,
+      "organization": "DigiLians Initiative",
+      "role": "AI & Data Science Trainee",
+      "startDate": "December 2025",
+      "endDate": "September 2026",
+      "current": false,
+      "employmentType": "Training",
+      "description": "",
+      "bullets": [
+        "Developed Marketly.ai, an AI-powered multi-agent marketing intelligence platform using LangChain and Gemini for market intelligence, competitor monitoring, brand analysis, and strategy generation.",
+        "Designed data collection workflows for social platforms, brand websites, competitor pages, and review sites using Apify for post collection and Playwright for targeted comment scraping.",
+        "Integrated SWOT analysis, trend monitoring, viral post insights, AI-generated marketing content, platform usage metering, and security-related platform controls."
+      ]
+    },
+    {
+      "_id": "experience-4",
+      "visible": true,
+      "sortOrder": 4,
+      "organization": "Electro Pi",
+      "role": "Machine Learning Engineer Intern",
+      "startDate": "December 2023",
+      "endDate": "July 2024",
+      "current": false,
+      "employmentType": "Internship",
+      "description": "",
+      "bullets": [
+        "Developed a real-time nursery monitoring system using YOLO for person detection and tracking, combined with Siamese Networks and Triplet Loss for person recognition.",
+        "Integrated facial emotion recognition and skeleton-based custom action classification using human pose information.",
+        "Built LLM-powered blog content generation workflows with images and interactive analytics dashboards."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "_id": "project-1",
+      "visible": true,
+      "sortOrder": 1,
+      "title": "NotebookLM Light",
+      "slug": "notebooklm-light",
+      "shortDescription": "NotebookLM Light is an AI-powered research and productivity workspace built around uploaded documents and grounded retrieval. It combines PDF-based question answering with source citations, document summarization, editable PowerPoint generation, reports, interactive quizzes, online/offline research workflows, and two-host audio overviews. Local model inference uses Ollama. Optional online research uses external services and requires connectivity.",
+      "description": "<p>NotebookLM Light is an AI-powered research and productivity workspace built around uploaded documents and grounded retrieval. It combines PDF-based question answering with source citations, document summarization, editable PowerPoint generation, reports, interactive quizzes, online/offline research workflows, and two-host audio overviews. Local model inference uses Ollama. Optional online research uses external services and requires connectivity.</p>",
+      "category": "Agentic AI / RAG / Document Intelligence",
+      "organization": "MCIT",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "Qwen3",
+        "Ollama",
+        "LangChain",
+        "LangGraph",
+        "MongoDB",
+        "Qdrant",
+        "RAG",
+        "Semantic Search"
+      ],
+      "features": [
+        "PDF uploads and document processing.",
+        "Citation-grounded conversational question answering.",
+        "Semantic search using Qdrant.",
+        "Multi-step agent orchestration using LangGraph.",
+        "Conversation and workflow persistence using MongoDB.",
+        "Multiple conversational memory mechanisms.",
+        "Locally configured model inference using Ollama.",
+        "Editable PowerPoint deck generation.",
+        "Research reports and interactive quizzes.",
+        "Two-host audio overview generation.",
+        "Optional external online research through Tavily and web publishers."
+      ],
+      "featured": true,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-2",
+      "visible": true,
+      "sortOrder": 2,
+      "title": "Marketly.ai",
+      "slug": "marketly-ai",
+      "shortDescription": "Marketly.ai is an AI-powered marketing intelligence platform designed to understand brands, monitor competitors, analyze market signals, and generate actionable marketing strategies.",
+      "description": "<p>Marketly.ai is an AI-powered marketing intelligence platform designed to understand brands, monitor competitors, analyze market signals, and generate actionable marketing strategies.</p>",
+      "category": "Agentic AI / Marketing Intelligence / Automation",
+      "organization": "DigiLians Initiative",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "LangChain",
+        "Gemini",
+        "Playwright",
+        "Apify",
+        "Web Scraping",
+        "Agentic AI"
+      ],
+      "features": [
+        "Brand and market analysis.",
+        "Competitor monitoring and intelligence.",
+        "Social media data collection.",
+        "Brand website and competitor website scraping.",
+        "Customer review analysis.",
+        "Performance insights and SWOT analysis.",
+        "Marketing strategy and campaign planning.",
+        "Trend and occasion tracking.",
+        "Viral post analysis to inform AI-generated social posts.",
+        "Cost-aware collection using Apify for posts and Playwright for comments.",
+        "Platform-level usage metering, resource consumption tracking, and security controls."
+      ],
+      "featured": true,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-3",
+      "visible": true,
+      "sortOrder": 3,
+      "title": "Multi-Branch POS SaaS",
+      "slug": "multi-branch-pos-saas",
+      "shortDescription": "A subscription-based POS and business management SaaS for restaurant and hospitality operators to manage multiple branches through a centralized platform.",
+      "description": "<p>A subscription-based POS and business management SaaS for restaurant and hospitality operators to manage multiple branches through a centralized platform.</p>",
+      "category": "SaaS / Business Management / Full-Stack",
+      "organization": "Freelance",
+      "status": "In Development",
+      "technologies": ["PostgreSQL"],
+      "features": [
+        "Manager Dashboard",
+        "Cashier POS",
+        "Kitchen Display System (KDS)",
+        "Platform Admin",
+        "Subscription-based access.",
+        "Multi-branch operations.",
+        "Product and inventory management.",
+        "Supplier management.",
+        "Operational reporting.",
+        "Administrative oversight.",
+        "Kitchen workflow interfaces."
+      ],
+      "featured": true,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-4",
+      "visible": true,
+      "sortOrder": 4,
+      "title": "Social Listening & Topic Modeling",
+      "slug": "social-listening-topic-modeling",
+      "shortDescription": "Processed 30,000+ Facebook comments from major news sources using sentiment analysis, LDA, BERTopic, and LLM-assisted labeling. Integrated agentic retrieval workflows to investigate emerging themes and audience opinions.",
+      "description": "<p>Processed 30,000+ Facebook comments from major news sources using sentiment analysis, LDA, BERTopic, and LLM-assisted labeling. Integrated agentic retrieval workflows to investigate emerging themes and audience opinions.</p>",
+      "category": "NLP / RAG / Analytics",
+      "organization": "",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "NLP",
+        "LDA",
+        "BERTopic",
+        "Sentiment Analysis",
+        "Embeddings",
+        "Agentic RAG"
+      ],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-5",
+      "visible": true,
+      "sortOrder": 5,
+      "title": "Liver Ultrasound Classification",
+      "slug": "liver-ultrasound-classification",
+      "shortDescription": "Developed a medical image classification solution using a Vision Transformer with limited liver ultrasound images, achieving a reported 96% accuracy on the evaluated dataset.",
+      "description": "<p>Developed a medical image classification solution using a Vision Transformer with limited liver ultrasound images, achieving a reported 96% accuracy on the evaluated dataset.</p>",
+      "category": "Medical AI / Computer Vision",
+      "organization": "",
+      "status": "Completed",
+      "technologies": ["Python", "PyTorch", "ViT", "Medical Imaging"],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-6",
+      "visible": true,
+      "sortOrder": 6,
+      "title": "Nursery Monitoring System",
+      "slug": "nursery-monitoring-system",
+      "shortDescription": "Created an AI-driven nursery monitoring prototype combining YOLO detection and tracking, Siamese-network recognition with Triplet Loss, emotion detection, and skeleton-based activity recognition.",
+      "description": "<p>Created an AI-driven nursery monitoring prototype combining YOLO detection and tracking, Siamese-network recognition with Triplet Loss, emotion detection, and skeleton-based activity recognition.</p>",
+      "category": "Computer Vision / Deep Learning",
+      "organization": "Electro Pi",
+      "status": "Prototype",
+      "technologies": [
+        "YOLO",
+        "Siamese Networks",
+        "Triplet Loss",
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-7",
+      "visible": true,
+      "sortOrder": 7,
+      "title": "AgentBook",
+      "slug": "agentbook",
+      "shortDescription": "Built a Flask-based intelligent meeting room booking application using LangGraph and Gemini with availability checks and booking conflict handling.",
+      "description": "<p>Built a Flask-based intelligent meeting room booking application using LangGraph and Gemini with availability checks and booking conflict handling.</p>",
+      "category": "Agentic AI / Automation",
+      "organization": "",
+      "status": "Completed",
+      "technologies": ["Python", "Flask", "LangGraph", "Gemini"],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "April 2025",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-8",
+      "visible": true,
+      "sortOrder": 8,
+      "title": "Real Estate Price Predictor",
+      "slug": "real-estate-price-predictor",
+      "shortDescription": "Fine-tuned Qwen3 using LoRA and PEFT for real estate valuation and merged the fine-tuned adapter with the base model for deployment.",
+      "description": "<p>Fine-tuned Qwen3 using LoRA and PEFT for real estate valuation and merged the fine-tuned adapter with the base model for deployment.</p>",
+      "category": "LLM Fine-Tuning",
+      "organization": "",
+      "status": "Completed",
+      "technologies": ["Python", "Qwen3", "LoRA", "PEFT"],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "March 2025",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-9",
+      "visible": true,
+      "sortOrder": 9,
+      "title": "Advix Financial Data Assistant",
+      "slug": "advix-financial-data-assistant",
+      "shortDescription": "Created a financial AI assistant using LLMs and RAG to answer data-driven questions and generate tables, charts, and contextual financial insights.",
+      "description": "<p>Created a financial AI assistant using LLMs and RAG to answer data-driven questions and generate tables, charts, and contextual financial insights.</p>",
+      "category": "LLM / Financial Analytics",
+      "organization": "",
+      "status": "Completed",
+      "technologies": ["Python", "LLMs", "RAG", "Financial Analytics"],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "January 2025 – March 2025",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-10",
+      "visible": true,
+      "sortOrder": 10,
+      "title": "Invoice Image Reader",
+      "slug": "invoice-image-reader",
+      "shortDescription": "Built a Dockerized Flask application using Gemini Flash 2, Pydantic, and LangChain for structured extraction and validation of invoice information from images.",
+      "description": "<p>Built a Dockerized Flask application using Gemini Flash 2, Pydantic, and LangChain for structured extraction and validation of invoice information from images.</p>",
+      "category": "Document AI / Multimodal AI",
+      "organization": "",
+      "status": "Completed",
+      "technologies": [
+        "Python",
+        "Flask",
+        "Gemini Flash 2",
+        "Pydantic",
+        "LangChain",
+        "Docker"
+      ],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "February 2025",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-11",
+      "visible": true,
+      "sortOrder": 11,
+      "title": "Assistance Avatar with Lip Sync",
+      "slug": "assistance-avatar-with-lip-sync",
+      "shortDescription": "Created an interactive virtual avatar with audio-driven lip synchronization, speech-to-text, Gemini-powered responses, and text-to-speech.",
+      "description": "<p>Created an interactive virtual avatar with audio-driven lip synchronization, speech-to-text, Gemini-powered responses, and text-to-speech.</p>",
+      "category": "Conversational AI / Multimodal",
+      "organization": "",
+      "status": "Completed",
+      "technologies": [],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "December 2024",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-12",
+      "visible": true,
+      "sortOrder": 12,
+      "title": "Pneumonia Classification",
+      "slug": "pneumonia-classification",
+      "shortDescription": "Fine-tuned Inception and Vision Transformer models for pneumonia classification from X-ray images and integrated the models into a Dockerized Flask application.",
+      "description": "<p>Fine-tuned Inception and Vision Transformer models for pneumonia classification from X-ray images and integrated the models into a Dockerized Flask application.</p>",
+      "category": "Medical Imaging / Deep Learning",
+      "organization": "",
+      "status": "Completed",
+      "technologies": [],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "November 2024",
+      "gallery": [],
+      "thumbnail": ""
+    },
+    {
+      "_id": "project-13",
+      "visible": true,
+      "sortOrder": 13,
+      "title": "Conversational AI with RAG",
+      "slug": "conversational-ai-with-rag",
+      "shortDescription": "Built an application with Llama 3, Mistral, and RAG enabling contextual interactions with user-uploaded datasets.",
+      "description": "<p>Built an application with Llama 3, Mistral, and RAG enabling contextual interactions with user-uploaded datasets.</p>",
+      "category": "LLMs / RAG",
+      "organization": "",
+      "status": "Completed",
+      "technologies": [],
+      "features": [],
+      "featured": false,
+      "published": true,
+      "startDate": "October 2024 – December 2024",
+      "gallery": [],
+      "thumbnail": ""
+    }
+  ],
+  "publications": [
+    {
+      "_id": "publication-nakba",
+      "visible": true,
+      "sortOrder": 0,
+      "title": "Digilians at NakbaVirality Shared Task: Bidirectional Cross-Attention for Multimodal Virality Prediction.",
+      "authors": [],
+      "venue": "NakbaNLP Workshop, LREC 2026",
+      "year": "2026",
+      "description": "",
+      "keywords": [],
+      "paperUrl": "",
+      "published": true,
+      "featured": true
+    },
+    {
+      "_id": "publication-imageeval",
+      "visible": true,
+      "sortOrder": 1,
+      "title": "Digilians at ImageEval 2026 Shared Tasks: Modular Speech Parsing and Joint Multimodal Reasoning for Arabic Spoken VQA",
+      "authors": [
+        "Ahmed Eid Hassan",
+        "Nour Eldeen Hossam",
+        "Ahmed Hossam Rashad",
+        "Abdelrhman Mahmoud Fawzy",
+        "Mohammed Eid Abdelmeguid",
+        "Mohamed Hamdy Mohamed"
+      ],
+      "venue": "Proceedings of The Fourth Arabic Natural Language Processing Conference: Shared Tasks",
+      "year": "2026",
+      "description": "<p>A modular pipeline for Arabic spoken visual question answering, combining speech processing with multimodal reasoning. The paper examines evaluation shifts between development and blind test recordings.</p>",
+      "keywords": ["Arabic NLP", "Multimodal reasoning", "Spoken VQA"],
+      "paperUrl": "https://aclanthology.org/2026.arabicnlp-sharedtasks.96/",
+      "pdfUrl": "https://aclanthology.org/2026.arabicnlp-sharedtasks.96.pdf",
+      "doi": "10.18653/2026.arabicnlp-sharedtasks.96",
+      "published": true,
+      "featured": true
+    }
+  ],
+  "education": [
+    {
+      "_id": "education-bsc",
+      "visible": true,
+      "sortOrder": 0,
+      "title": "Bachelor’s Degree in Computer Science",
+      "organization": "6th October University",
+      "startDate": "2016",
+      "endDate": "2020",
+      "description": "<p>Graduation project: MedicalBot — an AI-powered virtual medical assistant for symptom analysis and potential condition prediction.</p>"
+    }
+  ],
+  "training": [
+    {
+      "_id": "training-digilians",
+      "visible": true,
+      "sortOrder": 0,
+      "title": "AI & Data Science Specialized Diploma",
+      "organization": "DigiLians Initiative",
+      "startDate": "December 2025",
+      "endDate": "September 2026",
+      "description": "<p>Nine-month specialized training program.</p>",
+      "areas": [
+        "NLP",
+        "Computer Vision",
+        "Generative AI",
+        "Mathematics",
+        "AWS",
+        "Huawei AI",
+        "Professional development"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "_id": "course-0",
+      "visible": true,
+      "sortOrder": 0,
+      "title": "Huawei HCIA-AI",
+      "issuer": "Huawei",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-1",
+      "visible": true,
+      "sortOrder": 1,
+      "title": "AWS Machine Learning Associate ML-C02",
+      "issuer": "AWS",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-2",
+      "visible": true,
+      "sortOrder": 2,
+      "title": "Large Language Models Fine-Tuning",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-3",
+      "visible": true,
+      "sortOrder": 3,
+      "title": "RAG Foundation",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-4",
+      "visible": true,
+      "sortOrder": 4,
+      "title": "BERT, GPT, ViT, and Swin Transformers",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-5",
+      "visible": true,
+      "sortOrder": 5,
+      "title": "Transformers Neural Network",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-6",
+      "visible": true,
+      "sortOrder": 6,
+      "title": "Natural Language Processing & Computer Vision",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-7",
+      "visible": true,
+      "sortOrder": 7,
+      "title": "Artificial & Deep Neural Networks",
+      "issuer": "Electro Pi",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-8",
+      "visible": true,
+      "sortOrder": 8,
+      "title": "Machine Learning",
+      "issuer": "EgFWD",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    },
+    {
+      "_id": "course-9",
+      "visible": true,
+      "sortOrder": 9,
+      "title": "Fundamental Database",
+      "issuer": "ITI",
+      "category": "Course / training",
+      "status": "Course / unverified",
+      "description": ""
+    }
+  ],
+  "contact": [
+    {
+      "_id": "main",
+      "title": "Let’s build something useful.",
+      "description": "<p>Have an AI project, a research question, or an engineering opportunity? I’d love to hear from you.</p>",
+      "email": "abdo.elsaadny74@gmail.com",
+      "whatsapp": "https://wa.me/201151542228",
+      "linkedin": "https://www.linkedin.com/in/abdelrhman-elsaadny/",
+      "github": "https://github.com/abdelrhman-mahmoud",
+      "kaggle": "https://www.kaggle.com/abdoelsaadny",
+      "cvUrl": "https://drive.google.com/file/d/18VlxFwhzLuk9mhzlltSqqpKd0Uj8-Aut/view?usp=sharing",
+      "linkOrder": ["email", "whatsapp", "linkedin", "github", "kaggle", "cv"],
+      "footerText": "Abdelrhman Mahmoud Fawzy · AI & Generative AI Engineer",
+      "cardTitle": "Let’s connect"
+    }
+  ],
+  "sectionSettings": [
+    {
+      "_id": "section-hero",
+      "visible": true,
+      "sortOrder": 0,
+      "section": "hero",
+      "title": "Hello, I’m Abdelrhman.",
+      "eyebrow": "AI & GENERATIVE AI",
+      "navLabel": "",
+      "description": ""
+    },
+    {
+      "_id": "section-about",
+      "visible": true,
+      "sortOrder": 1,
+      "section": "about",
+      "title": "Engineering with purpose.",
+      "eyebrow": "ABOUT ME",
+      "navLabel": "About",
+      "description": ""
+    },
+    {
+      "_id": "section-skills",
+      "visible": true,
+      "sortOrder": 2,
+      "section": "skills",
+      "title": "My engineering toolkit.",
+      "eyebrow": "CAPABILITIES",
+      "navLabel": "Skills",
+      "description": ""
+    },
+    {
+      "_id": "section-experiences",
+      "visible": true,
+      "sortOrder": 3,
+      "section": "experiences",
+      "title": "Learning. Building. Delivering.",
+      "eyebrow": "EXPERIENCE",
+      "navLabel": "Experience",
+      "description": ""
+    },
+    {
+      "_id": "section-featured",
+      "visible": true,
+      "sortOrder": 4,
+      "section": "featured",
+      "title": "Selected work.",
+      "eyebrow": "FEATURED PROJECTS",
+      "navLabel": "Projects",
+      "description": ""
+    },
+    {
+      "_id": "section-projects",
+      "visible": true,
+      "sortOrder": 5,
+      "section": "projects",
+      "title": "More explorations.",
+      "eyebrow": "OTHER PROJECTS",
+      "navLabel": "",
+      "description": ""
+    },
+    {
+      "_id": "section-publications",
+      "visible": true,
+      "sortOrder": 6,
+      "section": "publications",
+      "title": "Research & publications.",
+      "eyebrow": "RESEARCH",
+      "navLabel": "Research",
+      "description": ""
+    },
+    {
+      "_id": "section-education",
+      "visible": true,
+      "sortOrder": 7,
+      "section": "education",
+      "title": "A foundation in computing.",
+      "eyebrow": "EDUCATION",
+      "navLabel": "",
+      "description": ""
+    },
+    {
+      "_id": "section-certifications",
+      "visible": true,
+      "sortOrder": 8,
+      "section": "certifications",
+      "title": "Courses & learning.",
+      "eyebrow": "CONTINUOUS LEARNING",
+      "navLabel": "",
+      "description": ""
+    },
+    {
+      "_id": "section-training",
+      "visible": true,
+      "sortOrder": 9,
+      "section": "training",
+      "title": "Focused professional training.",
+      "eyebrow": "TRAINING",
+      "navLabel": "",
+      "description": ""
+    },
+    {
+      "_id": "section-contact",
+      "visible": true,
+      "sortOrder": 10,
+      "section": "contact",
+      "title": "Have something in mind?",
+      "eyebrow": "GET IN TOUCH",
+      "navLabel": "Contact",
+      "description": ""
+    },
+    {
+      "_id": "section-footer",
+      "visible": true,
+      "sortOrder": 11,
+      "section": "footer",
+      "title": "Footer",
+      "eyebrow": "",
+      "navLabel": "",
+      "description": ""
+    }
+  ],
+  "appearance": [
+    {
+      "_id": "main",
+      "accent": "#b46bd6",
+      "pink": "#e35b96",
+      "orange": "#e8965a",
+      "particles": true,
+      "animations": true
+    }
+  ],
+  "siteSettings": [
+    {
+      "_id": "main",
+      "title": "Abdelrhman Mahmoud Fawzy — AI & Generative AI Engineer",
+      "description": "AI & Generative AI Engineer working on Agentic RAG, LLM applications, computer vision, and full-stack software.",
+      "siteUrl": "",
+      "ogImage": "",
+      "keywords": [
+        "AI Engineer",
+        "Generative AI",
+        "Agentic AI",
+        "RAG",
+        "Machine Learning"
+      ],
+      "indexing": true
+    }
+  ]
+}
